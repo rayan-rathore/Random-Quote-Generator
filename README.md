@@ -227,7 +227,7 @@ pip install -r requirements.txt
 Run the application.
 
 ```bash
-python main.py
+python main_controller.py
 ```
 
 ---
