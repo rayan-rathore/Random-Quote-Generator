@@ -37,20 +37,11 @@ The project was developed to practice:
 
 # 📸 Screenshot
 
-> Add screenshots of your application here.
+<img width="1919" height="1079" alt="Screenshot 2026-07-02 070055" src="https://github.com/user-attachments/assets/15425a9d-0566-45e9-ba14-15996da0e802" />
+<img width="1919" height="1079" alt="Screenshot 2026-07-02 070016" src="https://github.com/user-attachments/assets/5c4c816c-78e3-4ffc-9bad-05c6e50a679c" />
+<img width="1919" height="1079" alt="Screenshot 2026-07-02 065940" src="https://github.com/user-attachments/assets/da3e4edd-dd7f-40be-b964-594b5455628e" />
+<img width="1919" height="1079" alt="Screenshot 2026-07-02 065858" src="https://github.com/user-attachments/assets/fa8580fb-9938-451f-b368-9824dafa15b2" />
 
-Example:
-
-```
-assets/
-    screenshot.png
-```
-
-Markdown:
-
-```markdown
-![Application Screenshot](assets/screenshot.png)
-```
 
 ---
 
