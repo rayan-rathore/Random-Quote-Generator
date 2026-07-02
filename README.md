@@ -35,7 +35,7 @@ The project was developed to practice:
 
 ---
 
-# 📸 Screenshot
+# 📸 Screenshots
 
 <img width="1919" height="1079" alt="Screenshot 2026-07-02 070055" src="https://github.com/user-attachments/assets/15425a9d-0566-45e9-ba14-15996da0e802" />
 <img width="1919" height="1079" alt="Screenshot 2026-07-02 070016" src="https://github.com/user-attachments/assets/5c4c816c-78e3-4ffc-9bad-05c6e50a679c" />
